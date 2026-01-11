@@ -1,0 +1,9 @@
+{
+  "homepage": "<https://modrinth.com/mod/create-wizardry/version/1.21.1-0.3.5>",
+  "<mcversion>": {
+    "<modversion>": "<Changes: Fixed Create: Enchantment Industry Fluid Incompatibility (#005) Fixed Common Ink Recipe redundancy>"
+  },
+  "promos": {
+    "<mcversion>-latest": "1.21.1-0.3.5"
+  }
+}
