@@ -1,13 +1,22 @@
 {
   "homepage": "https://www.curseforge.com/minecraft/mc-mods/create-wizardry",
   "neoforge-1.21.1": {
-    "1.21.1-0.4.1": "<Create: Wizardry 1.21.1-0.4.1:
-* Changed Channeler bounding box
-* Channeler Block now drops properly 
-* Slightly Tweaked advancement logic  ...and more!"
+    "1.21.1-0.4.2": "
+- Fixed Blood Bucket recipe (accepted any bucket)
+- Added Chinese translations
+- Added Mana Bucket particles
+and more!"
+  },
+  "forge-1.20.1": {
+    "1.20.1-0.4.2": "
+- Fixed crash with making sequenced assembly recipes
+- Fixed Channeler Lightning rendering
+and more!"
   },
   "promos": {
-    "1.21.1-latest": "1.21.1-0.4.1",
-    "1.21.1-recommended": "1.21.1-0.4.1"
+    "1.21.1-latest": "1.21.1-0.4.2",
+    "1.21.1-recommended": "1.21.1-0.4.2"
+    "1.20.1-latest": "1.20.1-0.4.2",
+    "1.20.1-recommended": "1.20.1-0.4.2"
   }
 }
